@@ -4,4 +4,4 @@ In any system, one major task saddled on the shoulders of a data analyst is the 
 More details with charts below.
 
 ## Data Source
-The full data and designed dashboard can be downloaded [here]()
+The full data with designed dashboard can be downloaded [here](https://github.com/jayslim1/Sales-Data/blob/main/Data%20for%20Sales%20Analysis.xlsx)
