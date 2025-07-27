@@ -22,4 +22,4 @@ The sales of electronics generated the most revenue. This can be seen from the v
 #### Others
 <img width="345" height="285" alt="cost by region 2" src="https://github.com/user-attachments/assets/813ab856-08a3-4a4a-be34-096f60ca8fc8" />
 <img width="861" height="246" alt="qty by region with feedback" src="https://github.com/user-attachments/assets/9b2d35af-2adf-4f0f-b3fb-225782f9d522" />
-<img width="535" height="225" alt="sales by category" src="https://github.com/user-attachments/assets/d93a774a-6211-470a-9a33-5b0218d9df9b" />
+<img width="486" height="225" alt="sales by category" src="https://github.com/user-attachments/assets/d93a774a-6211-470a-9a33-5b0218d9df9b" />
