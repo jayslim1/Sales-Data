@@ -14,3 +14,7 @@ From the bar chart above, it can be deduced that the largest markets of the comp
 #### Sales by Product Category and Cost
 <img width="448" height="285" alt="sales by category and cost" src="https://github.com/user-attachments/assets/48fb949f-d377-413f-a1bf-1d146e8302c8" />
 The sales of electronics generated the most revenue. This can be seen from the variance between the sum of sales and cost illustrated by the chart above.
+
+#### Others
+<img width="345" height="285" alt="cost by region 2" src="https://github.com/user-attachments/assets/813ab856-08a3-4a4a-be34-096f60ca8fc8" />
+<img width="1160" height="292" alt="qty by region with feedback" src="https://github.com/user-attachments/assets/9b2d35af-2adf-4f0f-b3fb-225782f9d522" />
